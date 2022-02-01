@@ -1,0 +1,183 @@
+commit 76e2deb46f36b7f08524238b9407a0f4d7dc351d
+Merge: a73dd11 1ad0915
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:01:03 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 1ad0915c7527606fc58a8883761f5feeb7592481
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 13:01:02 2022 +0100
+
+    Create .gitkeep
+
+commit a73dd1188d75e0ef8747400841353fe1c4b51a14
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:00:58 2022 +0100
+
+    Added pancake recipe
+
+commit 6a890f1f52bfbb3d2dcd8f9bdeaa238bd6975856
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 13:00:43 2022 +0100
+
+    Create .gitkeep
+
+commit 360463891326907bc33a3168315744e176c8bbdb
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 13:00:29 2022 +0100
+
+    Delete Refrences directory
+
+commit 3a3c75965ebb759468a142b34119fe701048146f
+Merge: 3178801 fbbacb4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:00:22 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 3178801c8fad7cfbb331dcb8800200bffa0548c6
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:00:18 2022 +0100
+
+    commmit
+
+commit fbbacb46e67780e1770fcd77dcba8a1aad36b447
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:59:00 2022 +0100
+
+    Create .gitkeep
+
+commit 2c4e1e3aeb4755e5d6c628e684e34a25a4056fcb
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:58:40 2022 +0100
+
+    Create .gitkeep
+
+commit 7976e4deeb0f2649a6bea6ab4ea7af6083dc0ea7
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:57:35 2022 +0100
+
+    Create .gitkeep
+
+commit 0abfb5b446ef3e3b4d11a735f28024a5c50898d5
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:57:17 2022 +0100
+
+    Create .gitkeep
+
+commit a3a7be3f74e155be5a886237ac00bb3bf5837da9
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:56:37 2022 +0100
+
+    Delete .DS_Store
+
+commit ed77a5f99400cdba5e4a004473e7ee61c9d2cdd1
+Merge: b7e4239 e724431
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:56:14 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit b7e4239db9f5c7e7cf95f3b67a6161f058af7bb4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:56:04 2022 +0100
+
+    Create .DS_Store
+
+commit e724431c4470f0c39d944f76ec2877f1e3547624
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:55:04 2022 +0100
+
+    Create .gitkeep
+
+commit 8e447d20db22c5c6ed9300340135f2c5f4710778
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:54:46 2022 +0100
+
+    Create .gitkeep
+
+commit 039a5dd370be7a9659c32455bbe32ab7b353c80e
+Author: Bjørn Søvad <bjso@itu.dk>
+Date:   Tue Feb 1 12:53:27 2022 +0100
+
+    Create .gitkeep
+
+commit d4fb3cba0b4a858af5571c8408778feb7a99e5b6
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Tue Feb 1 12:49:44 2022 +0100
+
+    Create tuesday
+
+commit 93af49f51904d3413fae0df5a98256a703190a75
+Merge: 30235a4 e3a7f76
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:49:17 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 30235a41c51b57a7d3b5fba76a5f39fa00eb142a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:49:14 2022 +0100
+
+    commit
+
+commit e3a7f763d8cdf746afcdfd7a4cc04b8e8f0417a3
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Tue Feb 1 12:49:11 2022 +0100
+
+    Update README.md
+
+commit 10e7680e1f0bf649f79c38b0cc8dc552ae43171f
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Tue Feb 1 12:48:30 2022 +0100
+
+    Create New File
+
+commit 2bffebe05d63a680cff61e286066db4fdf959650
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Tue Feb 1 12:45:23 2022 +0100
+
+    Update README.md
+
+commit bb87f04fb2142455dc51a517bc0da3fea667da07
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 12:44:15 2022 +0100
+
+    Update README.md
+
+commit 1c0458d9e7d03a6aa8c32c36c321076ad3c6d0e7
+Author: Bjørn Søvad <bjso@itu.dk>
+Date:   Tue Feb 1 12:43:07 2022 +0100
+
+    Update README.md
+
+commit fdc84e39a0017b112b0660f467f0dc3c034c9156
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Tue Feb 1 12:40:09 2022 +0100
+
+    Update README.md
+
+commit 1d6db570e44f44b96e35e96bd38b2db4befba413
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:33:32 2022 +0100
+
+    Update README.md
+
+commit 3005901d3b29cee7dd6d98b2535cc37a1efca304
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:30:35 2022 +0100
+
+    Delete pancake.txt
+
+commit 07e057f6beb4ef1c3eeaa1cf00ae09ee88317c19
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:29:39 2022 +0100
+
+    Pancake
+
+commit 10879c68ca871624c488eae9a0391c65220409f1
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 12:14:40 2022 +0100
+
+    Initial commit
