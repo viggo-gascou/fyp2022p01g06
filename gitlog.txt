@@ -1,3 +1,59 @@
+commit f9d320ceac730fbd9887cc039b9c27c340b92cc4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:25:52 2022 +0100
+
+    Renamed file
+
+commit 147fa838101f308752d9a1d6f9373eabeb7eb642
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:21:55 2022 +0100
+
+    deleted hej hej and added hej hej.txt instead
+
+commit 1b2daa04ec659c18f1c2a99f4b960b57f2293a6a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:21:06 2022 +0100
+
+    Update to .txt
+
+commit 8b810e24cc10e063b31804e7e9c5300091923097
+Merge: f59cb75 3a31344
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:20:12 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit f59cb75b82281ab2f59c42368e7f26dbeb57baa9
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:20:03 2022 +0100
+
+    created hej hej
+
+commit 3a31344a5bdb9fc74b68be4787f67507087dc360
+Merge: aeb6ac5 f1cd3a8
+Author: bjso <bjso@itu.dk>
+Date:   Tue Feb 1 13:19:01 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit aeb6ac58f4bd4fd5e945bb2dabcce1f52a6cedf0
+Author: bjso <bjso@itu.dk>
+Date:   Tue Feb 1 13:18:52 2022 +0100
+
+    Create pancakebear.txt
+
+commit f1cd3a813d3db70b341219092a8a773eab89f979
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 1 13:17:44 2022 +0100
+
+    Update New File
+
+commit 3a1c22cb272993bc5b2615bbcde0be7d6a9444a6
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:10:34 2022 +0100
+
+    Update gitlog.txt
+
 commit d669d2f3b653564b988934026e3531216cda68d2
 Merge: 7702c29 cc06ed0
 Author: Viggo Gascou <viga@itu.dk>
