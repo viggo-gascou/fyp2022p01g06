@@ -1,3 +1,26 @@
+commit d669d2f3b653564b988934026e3531216cda68d2
+Merge: 7702c29 cc06ed0
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:05:03 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 7702c2977b5664c6773c112d4a8e06ae23309dd4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:04:57 2022 +0100
+
+    Create gitlog.txt
+
+commit cc06ed033997eacd75ce991b5448c7f60f59a646
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Tue Feb 1 13:04:12 2022 +0100
+
+    I made a new file
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
 commit 76e2deb46f36b7f08524238b9407a0f4d7dc351d
 Merge: a73dd11 1ad0915
 Author: Viggo Gascou <viga@itu.dk>
