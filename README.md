@@ -1,9 +1,4 @@
 # FYPGroupF
 First Year Project - Group F 
 
-test test
-kfgpdp
-test2
-something
-ejioewjioefw
-done
+Repository for the first project - Weather and Corona - Group F
