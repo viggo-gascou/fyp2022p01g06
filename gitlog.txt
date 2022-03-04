@@ -1,3 +1,1001 @@
+commit 0fc65c18a5262aba8276542d13cb624860114a5e
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 21:49:52 2022 +0100
+
+    renamed:    Notebooks/fyp2022p01g06_Report.ipynb
+    -> Notebooks/fyp2022p01g06_Notebook.ipynb
+
+commit 429f6445a6d68e7d5af28921d4ab269f7f018985
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 21:10:58 2022 +0100
+
+    Various updates to wording and comments
+
+commit 33a78a81464d3346bb31f9b6bce008434001bcc9
+Merge: ec290d4 3a6d607
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 20:49:46 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit ec290d4182e4ddadb0628c7d03e2c4deb908efb8
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 20:46:33 2022 +0100
+
+    Germany cases per capita figure
+
+commit 3a6d6075f3252ce8d933f7a65cfc411b797d386a
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Mar 3 17:55:41 2022 +0100
+
+    Update fyp2022p01g06_Report.ipynb
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
+commit 0d3de7d0b879e3e0a20fa8e1196963aad5e01c4a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 16:31:06 2022 +0100
+
+    Cleared outputs
+
+commit d96a80d1c162a72a2bf4ae3949ef4ac398b87a33
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 16:28:27 2022 +0100
+
+    Described folder structure
+
+commit d7186990fb193e1e0cccbb99d3f21d9d8e918874
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 16:06:26 2022 +0100
+
+    moved around the notebooks
+
+commit ba0dbd7e95ac6597784a6b23f57b858f38d5d51e
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 15:54:59 2022 +0100
+
+    Updated the main notebook
+    and added the various figures
+
+commit 54494eb825ed10724759a2fd53a57c7fd233b63a
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Thu Mar 3 14:31:10 2022 +0100
+
+    task1
+    
+    task1
+
+commit b540f7e38770f9bffd054a19eebce524644bd68a
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Thu Mar 3 13:54:37 2022 +0100
+
+    Plots update
+    
+    plottingagain
+
+commit b92f9a2aabdc394cb8ef29e3a862654fb9b5d859
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Mar 3 13:49:42 2022 +0100
+
+    t1
+
+commit a982d1b516d2bebaa3e6d903ce447df3a9834bf6
+Merge: dc2424b fc9a401
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Mar 3 13:38:01 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit fc9a401b8ad9ef066915f12184cbaf89b4a377ca
+Merge: ae269bf 35d3648
+Author: bjso <bjso@itu.dk>
+Date:   Thu Mar 3 13:35:50 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit ae269bfc0981656de5026e38b69c39e22252675b
+Author: bjso <bjso@itu.dk>
+Date:   Thu Mar 3 13:35:42 2022 +0100
+
+    Create FEBS Open Bio - 2021 - Mukherjee - Seasonal UV exposure and vitamin D  association with the dynamics of COVID‐19.pdf
+
+commit dc2424b73a321e20f71eae90170184ab783edf7a
+Merge: 5b6ff38 35d3648
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Mar 3 13:35:10 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 5b6ff3874425ef74d1ad6b2c4eda784b6c7b40f1
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Mar 3 13:32:22 2022 +0100
+
+    Sweden
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
+commit 35d36484c12862320c7e77f1e1c71cf1fe90802a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 13:30:06 2022 +0100
+
+    idk anymore
+
+commit 11825ed4184f062e1a86c50de5c7aab8f08c058f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 13:16:19 2022 +0100
+
+    small tweak
+
+commit 670b515313cf0238042f8e2ef0096addd6bb5327
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 13:04:24 2022 +0100
+
+    Merged tasks to fyp2022p01g06_Report.ipynb
+
+commit d05718ef8db2441fc89623b346e69ca2cd3f4bc1
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Mar 3 11:49:08 2022 +0100
+
+    Typo fixes
+
+commit aa8d7e3a27cf3e246b60d7c6bf7fc15ffea498c2
+Merge: 3c18fa4 35f44ad
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Thu Mar 3 11:00:02 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit 3c18fa4b21d9d8fd23d9ceccf38f4ce3f70996b7
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Thu Mar 3 10:55:45 2022 +0100
+
+    Creating Task1plotting
+    
+    Creating Jupyter file with plots
+
+commit 35f44ad0eec2b2c6598139d70974605249f7ee91
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Wed Mar 2 23:30:19 2022 +0100
+
+    t4
+
+commit eed10c1b228776088fcc1cfab511248b80258a8a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Wed Mar 2 16:54:25 2022 +0100
+
+    added plot for UV and cases
+
+commit 9337256bd76f3a973aa06a8bcc22bef7e791fd8c
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Wed Mar 2 16:34:28 2022 +0100
+
+    Moved import to beginning
+
+commit f108e884ad9ef4469eeedec3bc196ffb07f95b32
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Wed Mar 2 16:32:30 2022 +0100
+
+    Changed weather variables to snake_case
+
+commit cdc3dd5a77b3c25e5bcad1291cbd823128b2a54d
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Wed Mar 2 16:11:00 2022 +0100
+
+    updated csv files
+
+commit 8ddcd33c2b0526e612e2d6d7d5c031e08feb9387
+Merge: f1a844d 96b5e0c
+Author: bjso <bjso@itu.dk>
+Date:   Wed Mar 2 14:44:40 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit f1a844d5e383118159e651351f05e26fe184327d
+Author: bjso <bjso@itu.dk>
+Date:   Wed Mar 2 14:44:37 2022 +0100
+
+    add maps
+
+commit 96b5e0c0c7161db4e0fe36bf72ffce68dceeee9a
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Wed Mar 2 13:01:36 2022 +0100
+
+    Task1 plotting
+    
+    The plot with corona data is now divided into two to be more readable
+
+commit 009b55e3db58bf109353ea18cd362dc0f9f7f7ac
+Merge: 13f6e42 ae0d7b4
+Author: bjso <bjso@itu.dk>
+Date:   Wed Mar 2 12:30:44 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit 13f6e423e89f34cd60eff7b96c4b47b00ed586a6
+Author: bjso <bjso@itu.dk>
+Date:   Wed Mar 2 12:30:17 2022 +0100
+
+    Created tasks
+
+commit ae0d7b4dd14688a9e57b3cfc8c0d76de522b61f9
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Wed Mar 2 10:23:32 2022 +0100
+
+    Update Report backup.ipynb
+    
+    Task 2 with description
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
+commit a8aea8f291aa72cb8b9d7ede720bd502e8cc4901
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Wed Mar 2 09:44:32 2022 +0100
+
+    t2
+
+commit 1f532197c5734492be208455305d443be987ec34
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Mar 1 17:48:55 2022 +0100
+
+    Changed files to reflect report backup.ipynb
+
+commit 5cab0ead8b105106d1091db7ffe11af94b78c3a5
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Mar 1 17:48:00 2022 +0100
+
+    Small update
+
+commit 41224ef87e4b658a7f99d2d547ef8f6198107aa7
+Merge: 77ec482 11145d7
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Mar 1 12:15:02 2022 +0100
+
+    upload backup
+
+commit 77ec48233af6f05780958ef4d9afcf4788382384
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Mar 1 12:10:57 2022 +0100
+
+    Cleared output
+
+commit 11145d729a78505206a2e782052ac4c97f117ece
+Merge: 9f7aabb bbfb8d1
+Author: bjso <bjso@itu.dk>
+Date:   Tue Mar 1 10:08:59 2022 +0100
+
+    Update Report.ipynb
+
+commit 9f7aabb47185bfe987f5db7e90f640c3fe2cf3c9
+Author: bjso <bjso@itu.dk>
+Date:   Tue Mar 1 09:45:59 2022 +0100
+
+    feat: Added stringency index
+
+commit bbfb8d1055d4fe1f501693ba5ba2a4652496e244
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 21:03:08 2022 +0100
+
+    Added check for negative values and merge check
+
+commit 808b2ce0e4c6579881f0003e2461637391ca89bd
+Merge: 77c712f 0b372ad
+Author: Bjørn Søvad <bjso@itu.dk>
+Date:   Mon Feb 28 20:36:42 2022 +0100
+
+    Merge pull request #1 from viga/chore/clean-up
+    
+    chore: Clean up code
+
+commit 0b372ad0cc32b7d8fcee8a120dd3bbc16f81fcbd
+Author: bjso <bjso@itu.dk>
+Date:   Mon Feb 28 20:33:49 2022 +0100
+
+    chore: Clean up code
+
+commit 77c712f43ae6eabe34ece2135e4d615521edb1fd
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Mon Feb 28 20:19:11 2022 +0100
+
+    task one
+    
+    changes
+
+commit cd224be4ba1c86565a07ac52d8507947b7c82e70
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Mon Feb 28 18:30:20 2022 +0100
+
+    Task1
+    
+    Graph with cases and weather data
+
+commit fcc5fbad6250efa49320ec6557bfe693da444678
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 17:52:59 2022 +0100
+
+    Updated files to reflect output of report.ipynb
+
+commit f75228ce590fce07ff55764e4694bab0bb8bf497
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 17:52:13 2022 +0100
+
+    Cleared outputs
+
+commit d07060e34e9e148bd30dddd20e3ac648da611375
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 17:51:34 2022 +0100
+
+    Updated conversion
+
+commit 7b7073052009a3100169ff1ab5bc6d53c35f1fca
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 17:49:52 2022 +0100
+
+    Added conversion of UVIndex:
+    from sum of hourly value (24 hours)
+    to average over 24 hours
+
+commit 976b0ee72b4bc1ab95d6897a1a6b932cd7a239db
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 15:51:14 2022 +0100
+
+    small fix
+
+commit ac074693f7af677512415165b9d3f81807c96f24
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 15:47:41 2022 +0100
+
+    added Y
+
+commit b455fb062c8b571004f0749f40dedc3b5376540f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 28 15:44:51 2022 +0100
+
+    Removed Final Files folder
+    
+    and changed file paths accordingly
+
+commit 7ee9731ed4986a4b27821c7a310f8be2061ba366
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 22:04:14 2022 +0100
+
+    fixes
+
+commit cc65259098f2807fa988bf99a4b6df88e8c2f7cc
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 21:45:51 2022 +0100
+
+    small fix
+
+commit 806c2e86b4a09822c783b737754ea9624a681f9f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 21:43:02 2022 +0100
+
+    Added check for duplicates
+
+commit d7249d35b7d87f59d3736f6b82fd58836f57e317
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:53:38 2022 +0100
+
+    Cleared outputs and renamed to 'Report.ipynb'
+
+commit e73a288d250d5c376b01be9a315fce7e1ffd3a13
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:50:57 2022 +0100
+
+    Update
+
+commit 38f865d37570b02354cdd78eabbea4967cd98e4f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:48:16 2022 +0100
+
+    Completed Task 0 (I think)
+
+commit be15ec2b0ec4d183cf003b7b1371c82d04095f75
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:09:40 2022 +0100
+
+    Small update, added inital data insprection
+
+commit 5dc0c38e42e878bca8584d584a3bc166de831ff2
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:06:55 2022 +0100
+
+    Remove ignored files
+
+commit 4f388ea9ad95fdb73e14997d0a6d199299830c33
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:05:54 2022 +0100
+
+    Updated .gitignore
+
+commit e7bba680a46d7aaa328680483c1e92480472dbf5
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 17:01:11 2022 +0100
+
+    Various updates on Task 0
+
+commit d7491532fb2cb814e6014a8ab82d8f08737d3478
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 16:06:55 2022 +0100
+
+    Updated color
+
+commit 39f879f5880178539a18a898c965a85d908ebe73
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sat Feb 26 15:55:21 2022 +0100
+
+    Completed part of task 0
+
+commit 363e1a677f9200317f8b0feedd45bc1098396cbb
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 20:45:51 2022 +0100
+
+    Updates
+
+commit 597a2555d8f22e79fd03404844c5078e5e9d770d
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 13:57:45 2022 +0100
+
+    Clear outputs
+
+commit d2c0e04adca052a3961416751d82d82c30c3c21c
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 13:56:44 2022 +0100
+
+    updates
+
+commit d2c946632273db5e3aea05b75d6c82f4abfde277
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 13:55:29 2022 +0100
+
+    Various updates
+
+commit 7cbf51db18be7282f238555a57b5a464198c3449
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 13:49:57 2022 +0100
+
+    A lot of updates
+    
+    Co-authored-by: KatarinaKraljevic <KatarinaKraljevic@users.noreply.github.com>
+
+commit 06d5cf19fbd7076549abc9d8e226a1481ce3d8ae
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 12:24:08 2022 +0100
+
+    Created tasks notebook
+
+commit 3c2574e33ff63ba1c1d4407a901181cb666b76d6
+Merge: 4f40a2c 004f68e
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 10:36:08 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit 4f40a2cf48cbbd0953c91fdde386c57593349a5b
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 24 10:36:06 2022 +0100
+
+    Project description
+
+commit 004f68e7fbfea92fd53cfab878c1b89504c06a3a
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Tue Feb 22 12:25:02 2022 +0100
+
+    update
+
+commit b1e41023d299deef3f76fda0caf048b0025adb86
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 20:25:30 2022 +0100
+
+    Updated and renamed external data, now only german
+
+commit 18eba4e57c94e4dd70aa53e0405ed4d5503fbf29
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 17 18:11:38 2022 +0100
+
+    ex5
+
+commit 90c78307425181d5a751df762a2fd8b08b22448a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 13:47:06 2022 +0100
+
+    removed index column
+
+commit 653240dc619719c02afd09b78ceaa1f3a39536f5
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 13:35:21 2022 +0100
+
+    Created processed csv for weather & corona
+
+commit 69e76a4b861914ad4767e27c5bae6b72ca9890e8
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 17 13:30:03 2022 +0100
+
+    data
+
+commit 770612b133387c9dd2e28060037e931bfebad01b
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 17 13:27:53 2022 +0100
+
+    Update Exercise_5.ipynb
+
+commit 0ffe381eb0baf4e91abdb62c1be3d5c0e2d410f0
+Merge: d32c2a9 e579ecf
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 17 13:27:46 2022 +0100
+
+    dataframes
+
+commit d32c2a997d317b6c87377c25d384a617ccf4655c
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 17 13:25:10 2022 +0100
+
+    data frames
+
+commit e579ecff73759d1bdddd2b796d4d57474a143477
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 12:53:26 2022 +0100
+
+    Cleaned Our World in Data csv
+
+commit 0ef48f81ca299f4e846bedabdc4ff457b9afa2e6
+Merge: 18b048c a603e7f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 12:44:51 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit 18b048ce12061e8a11f4d922cf24c7558c690715
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 12:44:40 2022 +0100
+
+    Create seperate csv file for weather and corona DE
+
+commit a603e7ffa8e9405d2b92adf23aa3552ec31e3c3f
+Merge: f691b03 8f1d434
+Author: bjso <bjso@itu.dk>
+Date:   Thu Feb 17 12:42:07 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit f691b03e736c589046f3823f7ad2bc2426a7194d
+Author: bjso <bjso@itu.dk>
+Date:   Thu Feb 17 12:41:14 2022 +0100
+
+    External_data_from_OWID
+    
+    Raw data from OWID in .csv
+
+commit 8f1d4346f12f57d584bd0b1059c7a72110ce3526
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 12:38:13 2022 +0100
+
+    Small update to exercise_5.ipynb
+
+commit d091b3c85118b5225e2fac0e6d4b8520f7c68a46
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 17 12:37:33 2022 +0100
+
+    Created Weather+Cases_DE.csv and updated Exercise5
+
+commit e750e692efd0a017c78e7649789f8a18b59657eb
+Author: bjso <bjso@itu.dk>
+Date:   Thu Feb 17 12:19:10 2022 +0100
+
+    Create Exercise_5.ipynb
+    
+    Copy+pasted exercise_4
+
+commit 5d2cd2f38f9d2b2133d1f39ac1585f9b8077ed5b
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 15 13:48:49 2022 +0100
+
+    Completed Exercise 4 and added to exercise_4.ipynb
+
+commit 5ea102b3cb2dc8fd99ae77c60699bbc11add41fe
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 15 12:19:10 2022 +0100
+
+    Created Exercise_4
+
+commit ff80f15cde1a16642ea0bf23ea0407fb6e06ea6c
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Sun Feb 13 15:41:28 2022 +0100
+
+    Updated Exercise 3.ipynb + renamed notebooks
+
+commit ff82bff308a3a2ccce52d1d5340bc66ab3a15e1f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 10 13:40:28 2022 +0100
+
+    Cleared outputs
+
+commit c8fe69f0a2487c0ce8025b03a8af9a6d66e91f24
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 10 13:39:55 2022 +0100
+
+    Added Bonferroni to exercise 3.ipynb
+
+commit 0425690d286e227782f3c31077bbe13922490ef0
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 10 13:36:36 2022 +0100
+
+    multipletests
+
+commit 35d0b6a08d3773fff76681ba3d24bfcc23fd8ad9
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 10 13:34:35 2022 +0100
+
+    multipletests
+
+commit 45b33a20dc738813745b46eea5520eb1289d17d2
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 10 13:28:02 2022 +0100
+
+    Updated Exercise 3 and 1
+
+commit 8da94a6b37bc64c1f6b47f2d21ce6fe5e3da8662
+Merge: dc1cd7e db18cbc
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 10 13:03:57 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/fyp2022p01g06
+
+commit dc1cd7e8e591906d8363e8c754220a20b79eb7d9
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 10 13:02:36 2022 +0100
+
+    Created exercise3.ipynb
+
+commit db18cbc8b5c727655044e4e40825c7bb8a1633dd
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Feb 10 12:52:01 2022 +0100
+
+    Merged
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
+commit e337ab4d8c356975deaca621bfd7a7baa8de3173
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 18:11:06 2022 +0100
+
+    Renamed Group_F_proj to NOT NEEDED
+
+commit d420e9fc18102b0ba0d0d05411a92ba1449e37f5
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 18:10:37 2022 +0100
+
+    Split Group_F_proj into two seperate files
+
+commit 148c726115840d40a0098e6e35b1fc6c573107ff
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 13:40:36 2022 +0100
+
+    Cleared outputs
+
+commit 238e4dcca517e0e90e2b8204277d92ff8f40a8e5
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 13:29:19 2022 +0100
+
+    Small updates to notebook file
+
+commit 979c17644b7745e2da8d6b3b89bdf4aca3c1e3b4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 13:25:48 2022 +0100
+
+    Updated jupyter notebook with titles
+
+commit 992d9cd1b01d2be935d6ea5c034ec03209e1d09f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 13:18:33 2022 +0100
+
+    Cleared output of jupyter notebook
+
+commit 9ccf8e639a485f44a873ef647b6df1d6b9f6f877
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 13:18:15 2022 +0100
+
+    Updated Jupyter notebook
+
+commit aa280f005f9bd6fc99425734e4c20d04dad36294
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 12:59:48 2022 +0100
+
+    Completed the second exercises and added to ipynb
+
+commit 4d6e2abd81ba7f0c95bacc3fdd1919faff4740d4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 8 12:33:11 2022 +0100
+
+    Updated folium map with geojson data
+
+commit bca0cef007bbe09ae309e9fb90b8d3a78a64179f
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Tue Feb 8 11:15:26 2022 +0100
+
+    folium map
+    
+    Initializing a folium map centered on Germany
+
+commit dec543ea23104bbfd743820178fd969e319057d4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Mon Feb 7 14:26:30 2022 +0100
+
+    Cleared and fixed output of jupyter notebook
+
+commit 44e3bd72a4386ff794d8e04735d607af105d3bac
+Author: Mirka Katuscáková <katu@itu.dk>
+Date:   Thu Feb 3 17:49:09 2022 +0100
+
+    Updated jupyter
+
+commit 8994db2e52f62e24c1dcc9a3b3861a9f703d17a7
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 14:00:15 2022 +0100
+
+    Updated Jupyter Notebook
+
+commit 366ce4a4c44401752e9b315d5c4ee9a05de7d291
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 13:39:02 2022 +0100
+
+    Updated notebook
+
+commit 8f1030b3a98c59edb336be19fbb0a3f082c341d8
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 13:36:38 2022 +0100
+
+    Update notebook
+
+commit a4460ea31a8aec7d1510c0070da946edc6e55c2b
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 13:28:24 2022 +0100
+
+    Added filter for Germany
+
+commit 02f05ec716a2a3abfc2d5d5b7a0513aa8d118b0f
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 13:27:11 2022 +0100
+
+    jupyter notebook
+
+commit 221bed8c675ed26a6ccb32790ee31263277a528c
+Author: Emma Cecilie Bjerring Jensen <emcj@itu.dk>
+Date:   Thu Feb 3 13:22:48 2022 +0100
+
+    I did the second question
+    
+    Co-Authored-By: Bjørn Søvad <bjso@itu.dk>
+    Co-Authored-By: Katarina Kraljevic <4496+katkr@users.noreply.github.itu.dk>
+    Co-Authored-By: Viggo Gascou <4282+viga@users.noreply.github.itu.dk>
+
+commit 5347e18838b1c7634bdfc5c7d82ff140468ada21
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 13:15:30 2022 +0100
+
+    Updated Jupyter Notebook
+
+commit f668b423b78a0b366f5d510f00504a930521ac83
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 13:14:15 2022 +0100
+
+    Updated Jupyter Notebook
+
+commit d4975d0ad5db526b8c831214c3bb4f69c46b633f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:47:35 2022 +0100
+
+    Added jupyter notebook
+
+commit e442031da02c4afd4c4a5922ffce49c3cefa9e58
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:41:08 2022 +0100
+
+    Removed .DS_Store files
+
+commit 49d4fc9cd2fce7e5a652a9483a33a3f5f50a6ec9
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:40:22 2022 +0100
+
+    Update .gitignore
+
+commit 65df338e75dedf0bdc6df0cefc124f9cee700858
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:38:38 2022 +0100
+
+    added raw data
+
+commit a41a9df5445b8b9c5f43b7be8f42c306b8bbef1f
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:37:42 2022 +0100
+
+    Added raw data and modified .gitignore
+
+commit e72f3e36ef1cf34cae2fd9e2dde3fc3b27355931
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:35:26 2022 +0100
+
+    Added Raw data
+
+commit 7c36624fc701157648e4e5f5f2460ef7d2792d6a
+Merge: 81de9c2 4227184
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:34:42 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 81de9c23a0091ed8e106a1cc3f19f6220b4e8dc4
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:34:09 2022 +0100
+
+    Updated .gitignore
+
+commit 4227184243e2b57b007bbc013945b175084dca0d
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:31:33 2022 +0100
+
+    Update README.md
+
+commit c19c238109cafb9a6f6c410d110c1e7f32f08209
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:30:55 2022 +0100
+
+    Updated README.md
+
+commit 17e17e684a46714178c47e7319f9a739aa01fd76
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:27:19 2022 +0100
+
+    Update .DS_Store
+
+commit 4918f08cbe3b8ce9846bbd12a9e07b806227419a
+Merge: ed087ec f9b079a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:25:55 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit ed087eca492027b40bb69dd616f1827a673d7d83
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:25:27 2022 +0100
+
+    Added needed folders
+
+commit f9b079a83e0afa5ee4b2d1f904861281b7ab5c5d
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:25:27 2022 +0100
+
+    Create .gitkeep
+
+commit 728d7b97747b4867cc5be5ba08d8f7e2d6963b08
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:25:12 2022 +0100
+
+    Create .gitkeep
+
+commit 0a18ef1f3919008fad608a0de167e0fc92ec6994
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:24:54 2022 +0100
+
+    Create .gitkeep
+
+commit 6752f69aa357d960a3fc2ca2542535221fff2f86
+Merge: 83a424a a5f4515
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:24:44 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/viga/FYPGroupF
+
+commit 83a424a8769bdc9f7aef16cce0c4e42b35f2b16a
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:24:43 2022 +0100
+
+    Fixes
+
+commit a5f4515b458121494aca75616b11ccf429dfba25
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:24:33 2022 +0100
+
+    Delete reports directory
+
+commit f3c40aea4204fd3ad9c461f5aa89eaf9891acad9
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:24:02 2022 +0100
+
+    Create .DS_Store
+
+commit ab31c5658b7fb42b3c50d8df8907cf6e80a883e0
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:22:53 2022 +0100
+
+    Create .gitkeep
+
+commit 75b38e032ba6dc546134623b0680633d0b20c5ec
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:22:38 2022 +0100
+
+    Create .gitkeep
+
+commit f2ed3db0338c14e96537816902ecec958c75441f
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:22:21 2022 +0100
+
+    Delete Reports/figures directory
+
+commit 9e68ddc3fb2f790d28e3986ed0d22221daf70a95
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:22:16 2022 +0100
+
+    Added needed folders
+
+commit 93ea138322c71076bd0bdc1106da3be78a8d7a5b
+Author: Katarina Kraljevic <katkr@itu.dk>
+Date:   Thu Feb 3 12:21:46 2022 +0100
+
+    Create .gitkeep
+
+commit 434de4a6f8246b058cda5aaa43a5079139c1c385
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 12:18:56 2022 +0100
+
+    Deleted unessecary folders and files
+
+commit f520fc8d19b0a87e3e0b9562476c9b000da66f69
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:44:52 2022 +0100
+
+    Update .gitignore
+
+commit cd8e45dce7c28582f36db833181568091aab5649
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:42:40 2022 +0100
+
+    Updates
+
+commit 5e74b7e7b41dd83c09067a4cc640c83579eff72b
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:33:05 2022 +0100
+
+    Updated .gitignore
+
+commit f9607743c820ac5fe95607d9533ca7c0482b6d88
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:30:18 2022 +0100
+
+    Moved Data to correct folder
+
+commit 18c9796189579432acb2158fa0b76a4543daecb6
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:29:10 2022 +0100
+
+    Added Data folder to .gitignore
+
+commit 6afdea80045972fee3a07d4c5549840934f9c5ce
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:24:57 2022 +0100
+
+    Added Data Folder (.gitignore)
+
+commit e2cbcb78c981f0d238ae4f16421ea8ba1c6a3573
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Thu Feb 3 10:22:39 2022 +0100
+
+    Update .DS_Store
+
+commit 26e0a47a1573a291c6a027a5d7f8ce0dd8dd0b94
+Author: Viggo Gascou <viga@itu.dk>
+Date:   Tue Feb 1 13:26:49 2022 +0100
+
+    Update gitlog.txt
+
 commit f9d320ceac730fbd9887cc039b9c27c340b92cc4
 Author: Viggo Gascou <viga@itu.dk>
 Date:   Tue Feb 1 13:25:52 2022 +0100
